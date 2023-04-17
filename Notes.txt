@@ -1,0 +1,6 @@
+To run 
+npx react-native start
+
+and in another terminal 
+
+npx react-native run-ios --device "name of the device"
